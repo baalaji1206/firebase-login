@@ -1,0 +1,32 @@
+*{
+    margin: 20px;
+    /* background-color: rgb(245, 245, 112);  */
+}
+
+.full{
+    margin-top: 200px;
+
+}
+
+.button{
+    font-size: 25px;
+    color: #ab0909;
+    width: 200px;
+    height: 35px;
+    
+}
+
+.button:hover{
+    background-color: rgb(1, 6, 11);
+    cursor: pointer;
+    
+}
+
+.card{
+    background-color: brown;
+    width: 400px;
+    align-items: center;
+    margin-left: 500px;
+    border-radius: 25px;
+    box-shadow: 30px ;
+}
